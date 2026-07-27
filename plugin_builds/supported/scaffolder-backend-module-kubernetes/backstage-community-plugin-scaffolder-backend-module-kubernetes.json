@@ -1,0 +1,7 @@
+{
+  "backstage-community-plugin-scaffolder-backend-module-kubernetes": {
+    "workspacePath": "scaffolder-backend-module-kubernetes/plugins/kubernetes-actions",
+    "support": "generally-available",
+    "registryReference": "ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-community-plugin-scaffolder-backend-module-kubernetes:bs_1.52.0__2.19.0"
+  }
+}
